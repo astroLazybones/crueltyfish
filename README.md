@@ -18,9 +18,12 @@ Clone the repo <br>
 Open cmd inside the new folder
 <br><br>
 
-##### To build exe:
+building exe:
+<br>
 `cargo build --release` (to run exe from terminal, go to the main folder, then the folder called target, then the folder called release, and run the exe from cmd inside there, **DO NOT DOUBLE CLICK IT**)
-##### To run without compile:
+<br>
+running without exe:
+<br>
 `cargo r` or `cargo run`
 <br><br>
 
@@ -29,9 +32,12 @@ Clone repo <br>
 Open terminal inside directory
 <br><br>
 
-##### To build binary:
-`cargo build --release` (to run binary from terminal, go to the repo directory, then the subdirectory called target, then the subdirectory inside that called release, and run the binary from terminal inside there, **DO NOT DOUBLE CLICK THE BINARY**)
-##### To run without compile:
+building binary:
+<br>
+`cargo build --release` (to run binary from terminal, go to the repo directory, then the subdirectory called target, then the subdirectory inside that called release, and run the binary from terminal inside there, **DO NOT DOUBLE CLICK THE BINARY**
+<br>
+running without binary:
+<br>
 `cargo r` or `cargo run` <br>
 #### If compiler complains about -lxdo missing
 Get the xdotools package for your distro
