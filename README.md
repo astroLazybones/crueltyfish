@@ -6,7 +6,7 @@ Automatic fishing script for cruelty squad.
 Currently it has only been tested on linux but it will work the same on most computers.
 <br><br>
 
-crueltyfish (or for short, autofish) works by automated mouse input using the enigo rust crate and timed input <br>
+crueltyfish (or for short, autofish) works by automated mouse input using the [enigo](https://crates.io/crates/enigo) and timed input <br>
 autofish casts the line after holding for 1 second, and pulls in after 1.5 seconds on loop.
 <br><br>
 
@@ -56,3 +56,4 @@ Here is a list of things that are here and arent here:
 - [ ] Uranus (this planet is something that isnt in the code)
 - [x] Very few lines of code
 - [x] Ability to cast and reel in fishing rod automatically
+- [x] Ability to catch the dos fish if set up properly (i caught 4 dos fish total)
