@@ -56,4 +56,4 @@ Here is a list of things that are here and arent here:
 - [ ] Uranus (this planet is something that isnt in the code)
 - [x] Very few lines of code
 - [x] Ability to cast and reel in fishing rod automatically
-- [x] Ability to catch the dos fish if set up properly (i caught 4 dos fish total)
+- [x] Ability to catch the DOSfish if set up properly (i caught 4 DOSfish total)
