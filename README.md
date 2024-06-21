@@ -47,3 +47,12 @@ Get the xdotools package for your distro
 
 ### To compile on mac
 Probably the same as linux and windows
+<br><br><br>
+# NOTABLE THINGS
+Here is a list of things that are here and arent here:
+<br>
+- [ ] Detection if the game is the main window
+- [ ] Catching based on if a fish in on screen
+- [ ] Uranus (this planet is something that isnt in the code)
+- [x] Very few lines of code
+- [x] Ability to cast and reel in fishing rod automatically
