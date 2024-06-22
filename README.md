@@ -49,6 +49,11 @@ Get the xdotools package for your distro
 Probably the same as linux and windows
 <br><br><br>
 # NOTABLE THINGS
+If the line gets pulled a little late, you can pause for a split second and wait for another fish to see the result.
+<br>
+This is because you have a chance at catching a fish every second in game (reccomended to turn on timer)
+<br>
+<br>
 Here is a list of things that are here and arent here:
 <br>
 - [ ] Detection if the game is the main window
