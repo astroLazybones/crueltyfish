@@ -49,11 +49,15 @@ Get the xdotools package for your distro
 Probably the same as linux and windows
 <br><br><br>
 # NOTABLE THINGS
+## Timing
 If the line gets pulled a little late, you can pause for a split second and wait for another fish to see the result.
 <br>
 This is because you have a chance at catching a fish every second in game (reccomended to turn on timer)
+## Positioning
+Make sure to stand close to the fishing spot (like, as close as you safely can)
 <br>
-<br>
+due to the fact it is timed inputs, not smart detection, when you cast the rod at long distances, it can try to pull the rod while its still in the air
+## Features
 Here is a list of things that are here and arent here:
 <br>
 - [ ] Detection if the game is the main window
