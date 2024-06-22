@@ -6,11 +6,11 @@ Automatic fishing script for cruelty squad.
 Currently it has only been tested on linux but it will work the same on most computers.
 <br><br>
 
-crueltyfish (or for short, autofish) works by automated mouse input using the [enigo](https://crates.io/crates/enigo) and timed input <br>
+crueltyfish (or for short, autofish) works by automated mouse input using the [enigo](https://crates.io/crates/enigo) and timed input. <br>
 autofish casts the line after holding for 1 second, and pulls in after 1.5 seconds on loop.
 <br><br>
 
-On all operating systems, **DO NOT** run the binary from anything other than a terminal, or you will have a hard time closing it
+On all operating systems, **DO NOT** run the binary from anything other than a terminal, or you will have a hard time closing it!
 <br><br>
 
 ### To compile on windows:
@@ -20,7 +20,7 @@ Open cmd inside the new folder
 
 *building exe:*
 <br>
-`cargo build --release` (to run exe from cmd, go to the main folder, then the folder called target, then the folder called release, and run the exe from cmd inside there, **DO NOT DOUBLE CLICK IT**)
+`cargo build --release` (to run exe from cmd, go to the main folder, then the folder called target, then the folder called release, and run the exe from cmd inside there, **DO NOT DOUBLE CLICK IT**).
 <br>
 <br>
 *running without exe:*
@@ -35,7 +35,7 @@ Open terminal inside directory
 
 *building binary:*
 <br>
-`cargo build --release` (to run binary from terminal, go to the repo directory, then the subdirectory called target, then the subdirectory inside that called release, and run the binary from terminal inside there, **DO NOT DOUBLE CLICK THE BINARY**
+`cargo build --release` (to run binary from terminal, go to the repo directory, then the subdirectory called target, then the subdirectory inside that called release, and run the binary from terminal inside there, **DO NOT DOUBLE CLICK THE BINARY**).
 <br>
 <br>
 *running without binary:*
@@ -56,7 +56,7 @@ This is because you have a chance at catching a fish every second in game (recco
 ## Positioning
 Make sure to stand close to the fishing spot (like, as close as you safely can)
 <br>
-due to the fact it is timed inputs, not smart detection, when you cast the rod at long distances, it can try to pull the rod while its still in the air
+due to the fact it is timed inputs, not smart detection, when you cast the rod at long distances, it can try to pull the rod while its still in the air.
 ## Features
 Here is a list of things that are here and arent here:
 <br>
