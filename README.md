@@ -20,7 +20,7 @@ Open cmd inside the new folder
 
 *building exe:*
 <br>
-`cargo build --release` (to run exe from terminal, go to the main folder, then the folder called target, then the folder called release, and run the exe from cmd inside there, **DO NOT DOUBLE CLICK IT**)
+`cargo build --release` (to run exe from cmd, go to the main folder, then the folder called target, then the folder called release, and run the exe from cmd inside there, **DO NOT DOUBLE CLICK IT**)
 <br>
 <br>
 *running without exe:*
