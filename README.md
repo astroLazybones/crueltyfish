@@ -66,3 +66,7 @@ Here is a list of things that are here and arent here:
 - [x] Very few lines of code
 - [x] Ability to cast and reel in fishing rod automatically
 - [x] Ability to catch the DOSfish if set up properly (i caught 4 DOSfish total)
+- [x] Ability to catch the Soul if set up properly (i caught 2 Souls total)
+
+# Updates/New info:
+Has caught a Soul
